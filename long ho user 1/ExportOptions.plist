@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/tson1982/zhenghawnaming.github.io.git/LHUser.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://github.com/tson1982/zhenghawnaming.github.io.git/57x57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://github.com/tson1982/zhenghawnaming.github.io.git/512x512.png</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>JP3TDL5LLK</string>
+	<key>thinning</key>
+	<string>&lt;thin-for-all-variants&gt;</string>
+</dict>
+</plist>
